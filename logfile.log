@@ -1,0 +1,11 @@
+{"level":"info","message":"the sever connect on port : 5050","timestamp":"2019-03-18T19:55:19.597Z"}
+{"level":"info","message":"DB customers is connected","timestamp":"2019-03-18T19:55:20.026Z"}
+{"level":"info","message":"the sever connect on port : 5050","timestamp":"2019-03-18T19:56:00.947Z"}
+{"level":"info","message":"DB customers is connected","timestamp":"2019-03-18T19:56:01.012Z"}
+{"message":"failed to reconnect after 30 attempts with interval 1000 ms","stack":"MongoNetworkError: failed to reconnect after 30 attempts with interval 1000 ms\n    at Connection.<anonymous> (/home/aljarrah/Desktop/MEAN_stack/NodeJS/MOVIE_API/node_modules/mongodb-core/lib/connection/pool.js:364:13)\n    at Connection.emit (events.js:180:13)\n    at Socket.<anonymous> (/home/aljarrah/Desktop/MEAN_stack/NodeJS/MOVIE_API/node_modules/mongodb-core/lib/connection/connection.js:246:50)\n    at Object.onceWrapper (events.js:272:13)\n    at Socket.emit (events.js:180:13)\n    at emitErrorNT (internal/streams/destroy.js:64:8)\n    at process._tickCallback (internal/process/next_tick.js:178:19)","name":"MongoNetworkError","errorLabels":["TransientTransactionError"],"level":"error","timestamp":"2019-03-18T19:57:42.002Z"}
+{"level":"info","message":"the sever connect on port : 5050","timestamp":"2019-03-19T12:38:49.848Z"}
+{"level":"info","message":"DB customers is connected","timestamp":"2019-03-19T12:38:49.915Z"}
+{"level":"info","message":"the sever connect on port : 5050","timestamp":"2019-03-19T12:39:01.791Z"}
+{"level":"info","message":"DB customers is connected","timestamp":"2019-03-19T12:39:01.902Z"}
+{"level":"info","message":"the sever connect on port : 5050","timestamp":"2019-03-19T12:39:50.105Z"}
+{"level":"info","message":"DB customers is connected","timestamp":"2019-03-19T12:39:50.886Z"}
